@@ -1,0 +1,28 @@
+{
+  "name": "koa-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/NoobTW/koa-api-example.git"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "NoobTW",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NoobTW/koa-example/issues"
+  },
+  "homepage": "https://github.com/NoobTW/koa-example#readme",
+  "dependencies": {
+    "koa": "^2.8.1",
+    "koa-body": "^4.1.1",
+    "koa-router": "^7.4.0"
+  }
+}
