@@ -23,6 +23,7 @@
   "dependencies": {
     "koa": "^2.8.1",
     "koa-body": "^4.1.1",
+    "koa-mongo": "^1.8.2",
     "koa-router": "^7.4.0"
   }
 }
